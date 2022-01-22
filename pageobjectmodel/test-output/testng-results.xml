@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28409" started-at="2021-10-27T19:45:27Z" finished-at="2021-10-27T19:45:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28409" started-at="2021-10-27T19:45:27Z" finished-at="2021-10-27T19:45:55Z">
+      <class name="testscripts.google">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:testscripts.google@6833ce2c]" name="launchbrowser" is-config="true" duration-ms="27908" started-at="2021-10-28T01:15:27Z" finished-at="2021-10-28T01:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="googlese()[pri:0, instance:testscripts.google@6833ce2c]" name="googlese" duration-ms="101" started-at="2021-10-28T01:15:55Z" finished-at="2021-10-28T01:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlese -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testscripts.google@6833ce2c]" name="closeBrowser" is-config="true" duration-ms="386" started-at="2021-10-28T01:15:55Z" finished-at="2021-10-28T01:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testscripts.google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
